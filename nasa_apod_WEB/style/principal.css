@@ -1,0 +1,7 @@
+.jumbotron-with-background {
+    background-image: url("../img/capa.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
